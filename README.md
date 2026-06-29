@@ -1,5 +1,4 @@
-[continental_scorecard.html](https://github.com/user-attachments/files/28719996/continental_scorecard.html)
-# COMERCIAL<!DOCTYPE html>
+<!DOCTYPE html>
 <html lang="es">
 <head>
 <meta charset="UTF-8">
